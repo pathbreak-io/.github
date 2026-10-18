@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pathbreak.io"><img src="https://pathbreak.io/assets/og-cover-2026.png" alt="Pathbreak: find and break the attack paths in AWS" width="640"></a>
+  <a href="https://pathbreak.io"><img src="https://pathbreak.io/assets/og-cover-2026-v2.png" alt="Pathbreak: find and break the attack paths in AWS" width="640"></a>
 </p>
 
 <h1 align="center">Pathbreak</h1>
