@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pathbreak.io"><img src="https://pathbreak.io/assets/og-cover-2026-v2.png" alt="Pathbreak: find and break the attack paths in AWS" width="640"></a>
+  <a href="https://pathbreak.io"><img src="https://pathbreak.io/assets/github-banner.png" alt="Pathbreak" width="100%"></a>
 </p>
 
 <h1 align="center">Pathbreak</h1>
@@ -11,7 +11,8 @@
   <a href="https://pathbreak.io/aws-privilege-escalation-map">AWS Privilege Escalation Map</a> &middot;
   <a href="https://pathbreak.io/demo">Demo</a> &middot;
   <a href="https://pathbreak.io/pricing">Pricing</a> &middot;
-  <a href="https://pathbreak.io/blog">Blog</a>
+  <a href="https://pathbreak.io/blog">Blog</a> &middot;
+  <a href="https://github.com/pathbreak-io/pathbreak-audit">pathbreak-audit</a>
 </p>
 
 ---
@@ -29,6 +30,7 @@ Pathbreak maps an AWS account, works out which identity and exposure chains reac
 - The [AWS Privilege Escalation Map](https://pathbreak.io/aws-privilege-escalation-map), a reference to the AWS permissions and combinations that let an attacker move through an account.
 - The [Cloud Threat Actors](https://pathbreak.io/aws-threat-actors) reference.
 - A [product walkthrough](https://pathbreak.io/demo).
+- [pathbreak-audit](https://github.com/pathbreak-io/pathbreak-audit), our free, open-source CLI that lists the abusable IAM permissions and toxic combinations in an AWS account. Install it with `pip install pathbreak-audit`.
 
 ### Get in touch
 
